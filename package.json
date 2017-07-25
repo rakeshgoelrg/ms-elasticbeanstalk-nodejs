@@ -1,13 +1,13 @@
 {
-  "name": "hometrack",
+  "name": "personal",
   "version": "0.0.1",
   "description": "Post some JSON data then apply filter on the data and return a few fields",
-  "author": "Rohitha Wanni Achchige <rohitha_wa@yahoo.com>",
+  "author": "Rakesh Goel <rakesh.goel.rg@gmail.com>",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/rohithawa/hometrack"
+    "url": "git://github.com/rakeshgoelrg/ms-elasticbeanstalk-nodejs"
   },
   "keywords": [],
   "main": "app.js",
